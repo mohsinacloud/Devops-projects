@@ -1,5 +1,5 @@
 variable "security_group_name" {
-  description = "Security group for Jenkins"
+  description = "security group for Jenkins"
   default     = "sg_jenkins"
 }
 
